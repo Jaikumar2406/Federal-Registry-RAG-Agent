@@ -1,0 +1,8 @@
+requests
+mysql-connector-python
+python-dotenv
+ollama
+langchain-core
+langgraph
+langchain-ollama
+langchain-groq
